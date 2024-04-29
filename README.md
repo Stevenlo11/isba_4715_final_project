@@ -27,10 +27,10 @@ This project directly relates to the job by demonstrating the ability to apply d
 - Historical player data
 
 ## Notebooks
-- `API_ETL.ipynb`: 
-- `Web_Scrape_ETL.ipynb`: 
-- `API_SQL_Analysis.ipynb`: 
-- `Web_Scrape_SQL_Analysis.ipynb `: 
+- `API_ETL.ipynb`: Extract data from Sportradar using API. 
+- `Web_Scrape_ETL.ipynb`: Extract data from Elite Prospect using Web scraper.
+- `API_SQL_Analysis.ipynb`: Use MySQL to obtain player performance data
+- `Web_Scrape_SQL_Analysis.ipynb `: Use MySQL to obtain player performance data
 
 ## Future Improvements
 - **Enhanced Predictive Models:** With more time, developing more sophisticated predictive models to forecast player success in the NHL based on their current stats and growth trajectory.

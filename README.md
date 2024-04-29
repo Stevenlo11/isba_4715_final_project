@@ -34,5 +34,5 @@ This project directly relates to the job by demonstrating the ability to apply d
 
 ## Future Improvements
 - **Enhanced Predictive Models:** With more time, developing more sophisticated predictive models to forecast player success in the NHL based on their current stats and growth trajectory.
-- **Real-Time Data Integration:** Implementing a system for real-time data updates during the season to make timely roster adjustments.
+- **Refined Player Filtering:** Adding more conditions to filter players, such as specific performance metrics and psychological assessments, to ensure a more targeted selection process.
 
